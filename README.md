@@ -182,3 +182,16 @@ def save_image(request):            # 이미지를 DB에 저장하기 위해
     )
     return Response({'message': '저장 완료'})
  ```
+
+
+
+## 4. 학습데이터 다운로드
+
+- [animal_images download](https://drive.google.com/file/d/1DX3HyCMyXWXEQ8micyBjSiqWlibn02EQ/view?usp=sharing)
+
+## 5. Reference
+
+- https://www.tensorflow.org/api_docs/python/tf/all_symbols
+
+- https://github.com/Wanguy/Inception_Tensorflow
+
